@@ -1,0 +1,2 @@
+DEBUG   2019-09-04 08:07:42,888 [main] com.sde.api.Log4jSpringIntegrationDemoApplication  - this is a debug log message
+DEBUG   2019-09-04 08:16:42,945 [main] com.sde.api.Log4jSpringIntegrationDemoApplication  - this is a debug log message
